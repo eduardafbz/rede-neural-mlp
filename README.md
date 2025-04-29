@@ -1,4 +1,4 @@
-# Rede Neural Simples 🧠🎬
+# Rede Neural Simples
 
 Rede neural simples implementada em Python utilizando a biblioteca NumPy, com o objetivo de prever classificações de filmes com base em dados de média de avaliação e duração.  
 Este projeto foi desenvolvido com fins **educacionais** como parte de atividades acadêmicas da faculdade, com foco no **treinamento de redes neurais artificiais** e no entendimento de seus fundamentos matemáticos.
